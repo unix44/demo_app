@@ -27,6 +27,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/models/micropost.rb",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -60,6 +76,12 @@
 	},
 	"file_history":
 	[
+		"/home/artem/work/rails/demo_app/config/routes.rb",
+		"/home/artem/work/rails/demo_app/app/controllers/users_controller.rb",
+		"/home/artem/work/rails/demo_app/app/controllers/application_controller.rb",
+		"/home/artem/work/rails/demo_app/app/views/users/index.html.erb",
+		"/home/artem/work/rails/demo_app/db/development.sqlite3",
+		"/home/artem/work/rails/demo_app/Gemfile",
 		"/home/artem/work/rails/first_app/README.markdown",
 		"/home/artem/work/rails/first_app/Gemfile",
 		"/home/artem/work/rails/first_app/.gitignore",
@@ -107,8 +129,61 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/models/micropost.rb",
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/user.rb",
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -172,6 +247,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 174.0,
+	"side_bar_width": 194.0,
 	"status_bar_visible": true
 }
